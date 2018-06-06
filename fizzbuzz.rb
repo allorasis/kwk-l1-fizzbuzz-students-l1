@@ -1,2 +1,2 @@
-def fizzbuzz(3)
+def fizzbuzz(int)
   
